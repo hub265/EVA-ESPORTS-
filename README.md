@@ -106,8 +106,7 @@
     <p>Results Updated Instantly Within Seconds ⚡</p>  
   </div>  
 
-  <div class="feature">  <img width="1024" height="1536" alt="1000233237" src="https://github.com/user-attachments/assets/abf68750-676b-40b4-8d30-29773821c44a" />
-<img width="1024" height="1536" alt="1000233237" src="https://github.com/user-attachments/assets/46d1288d-186d-4b33-a7b4-6a7e9d0f1479" />
+
 
     <h3>🛡 Secure & Fair</h3>  
     <p>Advanced Anti-Cheat System For Fair Tournament Play</p>  
